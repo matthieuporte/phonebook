@@ -6,3 +6,4 @@ Dockerfile
 .eslintrc.js
 .dockerignore
 .env
+mongo.js
