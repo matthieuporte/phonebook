@@ -1,0 +1,8 @@
+.idea/
+node_modules/
+fly.toml
+Dockerfile
+.eslintignore
+.eslintrc.js
+.dockerignore
+.env
